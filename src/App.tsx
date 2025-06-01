@@ -17,7 +17,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <h1 className="text-4xl font-bold bg-gradient-to-r from-[#0067A5] via-[#0067A5] to-[#00A3A1] bg-clip-text text-transparent">
-                Clinical Assistant
+              AtherCare  Clinical Assistant
               </h1>
               <div className="relative">
                 <div className="flex items-center justify-center w-12 h-12 bg-gradient-to-r from-[#0067A5] to-[#00A3A1] rounded-full shadow-lg">
